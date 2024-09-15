@@ -17,7 +17,7 @@ public class Exemplo1 {
 		
 		int idades[] = new int[10];
 		
-		idades[3] = 31;
+		idades[3] = 32;
 		idades[2] = 20;
 		
 		System.out.println(idades[3]);
