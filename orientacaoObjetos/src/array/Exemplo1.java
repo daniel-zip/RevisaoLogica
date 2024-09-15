@@ -23,8 +23,6 @@ public class Exemplo1 {
 		System.out.println(idades[3]);
 		System.out.println(idades[2]);
 		System.out.println(idades[1]);
-		
-		System.out.println("Teste para o repositorio GitHub");
 
 	}
 
