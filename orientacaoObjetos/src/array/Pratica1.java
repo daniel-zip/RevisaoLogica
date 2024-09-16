@@ -33,7 +33,7 @@ public class Pratica1 {
 		System.out.println("");
 		System.out.println("");
 		
-		// 4) Exibe na tela somente os números
+		// 4) Exibe na tela somente os números ímpares
 		System.out.println("Elementos do array que são números ímpares: ");
 		for(i = 0; i < numeros.length; i++) {
 			if((numeros[i] % 2) != 0) {
@@ -69,7 +69,7 @@ public class Pratica1 {
 		
 		// 5.3) Exibe a subtração da soma dos elementos pares e ímpares
 		int subtracao = somaPares - somaImpares;
-		System.out.println("Subtração dos números pares - soma dos números ímpares: " + subtracao);
+		System.out.println("Subtração da soma dos números pares - soma dos números ímpares: " + subtracao);
 	}
 
 }
