@@ -42,7 +42,7 @@ public class Exercicio1 {
 		}
 		
 		System.out.println("");
-		System.out.println("");
+		System.out.println(" ");
 		
 		// 5) Exibe a subtração da soma dos elementos pares e ímpares
 		// 5.1) Exibe a soma dos impares
