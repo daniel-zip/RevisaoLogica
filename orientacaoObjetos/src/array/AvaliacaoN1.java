@@ -10,7 +10,7 @@ public class AvaliacaoN1 {
 		
 		
 		// a) Exiba todos os números do vetor
-		System.out.println("Elementos do array: ");
+		System.out.println("1) Elementos do array: ");
 		for(i = 0; i < numeros.length; i++) {
 			System.out.print(numeros[i] + "|");
 		}
@@ -22,18 +22,18 @@ public class AvaliacaoN1 {
 		for(i = 0; i < numeros.length; i++) {
 			somaNumeros += numeros[i];
 		}
-		System.out.println("Soma dos números do vetor: " + somaNumeros);
+		System.out.println("2) Soma dos números do vetor: " + somaNumeros);
 		
 		System.out.println("");
 		
 		// c) Calcule a média de todos os elementos do vetor
 		mediaNumeros = (somaNumeros / numeros.length);
-		System.out.println("Média dos números do vetor: " + mediaNumeros);
+		System.out.println("3) Média dos números do vetor: " + mediaNumeros);
 		
 		System.out.println("");
 		
 		// d) Exiba na tela a dobro de cada nota do vetor.
-		System.out.println("Dobro de cada valor do vetor: ");
+		System.out.println("4) Dobro de cada valor do vetor: ");
 		for(i = 0; i < numeros.length; i++) {
 			System.out.print((numeros[i] * 2) + "|");
 		}
@@ -53,7 +53,7 @@ public class AvaliacaoN1 {
 		
 		for(i = 0; i < numeros.length; i++) {
 			if(valorMaximo == numeros[i]) {
-				System.out.println("Maior valor do vetor: " + valorMaximo);
+				System.out.println("5) Maior valor do vetor: " + valorMaximo);
 				System.out.println("Localizado no índice: " + i);
 			}
 		
