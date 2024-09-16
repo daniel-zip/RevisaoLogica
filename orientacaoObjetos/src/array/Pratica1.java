@@ -1,6 +1,6 @@
 package array;
 
-public class Exercicio1 {
+public class Pratica1 {
 
 	public static void main(String[] args) {
 		int i;
@@ -64,6 +64,8 @@ public class Exercicio1 {
 			}
 		}
 		System.out.println(somaPares);
+		
+		System.out.println("");
 		
 		// 5.3) Exibe a subtração da soma dos elementos pares e ímpares
 		int subtracao = somaPares - somaImpares;

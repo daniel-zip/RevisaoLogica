@@ -1,10 +1,6 @@
 package array;
 
-import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
-
-public class Exercicio2 {
+public class Pratica2 {
 
 	public static void main(String[] args) {
 		double numeros[] = {7, 6.2, 0, 7.4, 8, 10, 8.2, 9.2, 5};
@@ -57,7 +53,7 @@ public class Exercicio2 {
 		
 		for(i = 0; i < numeros.length; i++) {
 			if(valorMaximo == numeros[i]) {
-				System.out.println("Maior valor do array: " + valorMaximo);
+				System.out.println("Maior valor do vetor: " + valorMaximo);
 				System.out.println("Localizado no índice: " + i);
 			}
 		
