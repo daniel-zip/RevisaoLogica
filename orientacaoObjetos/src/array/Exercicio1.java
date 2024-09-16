@@ -7,7 +7,7 @@ public class Exercicio1 {
 		int somaImpares = 0;
 		int somaPares = 0;
 		
-		int numeros[] = {9, 8, 1, 45, 89, 43, 55, 10, 12, 44, 68, 
+		int numeros[] = {7, 8, 1, 45, 89, 43, 55, 10, 12, 44, 68, 
 				66, 70, 71, 73, 88, 90, 33, 76, 77, 98, 101, 123, 143, 155, 167, 190};
 		
 		// 1) Exibe na tela o tamanho do array
