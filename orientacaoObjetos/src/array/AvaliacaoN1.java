@@ -1,6 +1,6 @@
 package array;
 
-public class Pratica2 {
+public class AvaliacaoN1 {
 
 	public static void main(String[] args) {
 		double numeros[] = {7, 6.2, 0, 7.4, 8, 10, 8.2, 9.2, 5};
