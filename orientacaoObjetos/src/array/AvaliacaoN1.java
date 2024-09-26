@@ -28,7 +28,7 @@ public class AvaliacaoN1 {
 		
 		// c) Calcule a média de todos os elementos do vetor
 		mediaNumeros = (somaNumeros / numeros.length);
-		System.out.println("3) Média dos números do vetor: " + mediaNumeros);
+		System.out.println("3) Média dos números do vetorr: " + mediaNumeros);
 		
 		System.out.println("");
 		
